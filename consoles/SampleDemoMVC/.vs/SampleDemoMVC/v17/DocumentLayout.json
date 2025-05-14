@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F200842-6C82-4194-8666-A3A3DC9D7D0A}|SampleDemoMVC\\SampleDemoMVC.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\sampledemomvc\\sampledemomvc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F200842-6C82-4194-8666-A3A3DC9D7D0A}|SampleDemoMVC\\SampleDemoMVC.csproj|solutionrelative:sampledemomvc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F200842-6C82-4194-8666-A3A3DC9D7D0A}|SampleDemoMVC\\SampleDemoMVC.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\sampledemomvc\\sampledemomvc\\views\\login\\loginsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F200842-6C82-4194-8666-A3A3DC9D7D0A}|SampleDemoMVC\\SampleDemoMVC.csproj|solutionrelative:sampledemomvc\\views\\login\\loginsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F200842-6C82-4194-8666-A3A3DC9D7D0A}|SampleDemoMVC\\SampleDemoMVC.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\sampledemomvc\\sampledemomvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F200842-6C82-4194-8666-A3A3DC9D7D0A}|SampleDemoMVC\\SampleDemoMVC.csproj|solutionrelative:sampledemomvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F200842-6C82-4194-8666-A3A3DC9D7D0A}|SampleDemoMVC\\SampleDemoMVC.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\sampledemomvc\\sampledemomvc\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F200842-6C82-4194-8666-A3A3DC9D7D0A}|SampleDemoMVC\\SampleDemoMVC.csproj|solutionrelative:sampledemomvc\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F200842-6C82-4194-8666-A3A3DC9D7D0A}|SampleDemoMVC\\SampleDemoMVC.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\sampledemomvc\\sampledemomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F200842-6C82-4194-8666-A3A3DC9D7D0A}|SampleDemoMVC\\SampleDemoMVC.csproj|solutionrelative:sampledemomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\SampleDemoMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SampleDemoMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\SampleDemoMVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SampleDemoMVC\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:13:32.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\SampleDemoMVC\\Views\\Login\\LoginSuccess.cshtml",
+              "RelativeDocumentMoniker": "SampleDemoMVC\\Views\\Login\\LoginSuccess.cshtml",
+              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\SampleDemoMVC\\Views\\Login\\LoginSuccess.cshtml",
+              "RelativeToolTip": "SampleDemoMVC\\Views\\Login\\LoginSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:56:49.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\SampleDemoMVC\\Models\\LoginUser.cs",
+              "RelativeDocumentMoniker": "SampleDemoMVC\\Models\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\SampleDemoMVC\\Models\\LoginUser.cs",
+              "RelativeToolTip": "SampleDemoMVC\\Models\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:44:33.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\SampleDemoMVC\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "SampleDemoMVC\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\SampleDemoMVC\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "SampleDemoMVC\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:43:38.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\SampleDemoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "SampleDemoMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\SampleDemoMVC\\SampleDemoMVC\\Program.cs",
+              "RelativeToolTip": "SampleDemoMVC\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:41:48.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
