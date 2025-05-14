@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\CaseStudy\\PayRollManagement\\PayRollManagement\\PayRollManagement.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\.net-react\\CaseStudy\\PayRollManagement\\PayRollManagement\\PayRollManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\CaseStudy\\PayRollManagement\\PayRollManagement\\PayRollManagement.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\.net-react\\CaseStudy\\PayRollManagement\\PayRollManagement\\PayRollManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CaseStudy\\PayRollManagement\\PayRollManagement\\PayRollManagement.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\.net-react\\CaseStudy\\PayRollManagement\\PayRollManagement\\PayRollManagement.csproj",
         "projectName": "PayRollManagement",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\CaseStudy\\PayRollManagement\\PayRollManagement\\PayRollManagement.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\.net-react\\CaseStudy\\PayRollManagement\\PayRollManagement\\PayRollManagement.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\CaseStudy\\PayRollManagement\\PayRollManagement\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\.net-react\\CaseStudy\\PayRollManagement\\PayRollManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
