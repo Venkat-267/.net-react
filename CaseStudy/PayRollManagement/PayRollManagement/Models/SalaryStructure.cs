@@ -8,7 +8,6 @@
         public decimal? HRA { get; set; }
         public decimal? Allowances { get; set; }
         public decimal? Deductions { get; set; }
-        public decimal PFPercent { get; set; } = 12.00m;
         public DateTime EffectiveFrom { get; set; }
 
         public Employee Employee { get; set; }
