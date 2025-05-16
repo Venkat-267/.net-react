@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\views\\students\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\students\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\models\\studentrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\models\\studentrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\views\\studentsss\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\studentsss\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|c:\\users\\venkat\\desktop\\hexaware\\fsd\\consoles\\mvcdemo\\mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6985808D-46C9-4466-B473-9432A72005C0}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,79 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Students\\View.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Students\\View.cshtml",
+              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Students\\View.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Students\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T04:14:38.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T04:13:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T04:12:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T04:10:53.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T04:00:51.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "MVCDemo\\Controllers\\StudentsController.cs",
               "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "MVCDemo\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowHQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T10:58:31.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "MVCDemo\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "MVCDemo\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:57:15.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "StudentRepoImpl.cs",
               "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Models\\StudentRepoImpl.cs",
               "RelativeDocumentMoniker": "MVCDemo\\Models\\StudentRepoImpl.cs",
               "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Models\\StudentRepoImpl.cs",
               "RelativeToolTip": "MVCDemo\\Models\\StudentRepoImpl.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T09:01:51.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "MVCDemo\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "MVCDemo\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwGMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:20:43.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Studentsss\\Delete.cshtml",
-              "RelativeDocumentMoniker": "MVCDemo\\Views\\Studentsss\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Views\\Studentsss\\Delete.cshtml",
-              "RelativeToolTip": "MVCDemo\\Views\\Studentsss\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T10:34:18.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Program.cs",
-              "RelativeDocumentMoniker": "MVCDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\venkat\\Desktop\\hexaware\\FSD\\consoles\\MVCDemo\\MVCDemo\\Program.cs",
-              "RelativeToolTip": "MVCDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:21:18.676Z",
               "EditorCaption": ""
             }
           ]

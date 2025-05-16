@@ -1,66 +1,60 @@
-## Build Folders ##
-bin/
-obj/
-[Bb]uild/
-[Ll]og/
-[Ll]ogs/
+##############################
+# General .NET build outputs #
+##############################
+**/bin/
+**/obj/
+**/artifacts/
 
-## Visual Studio ##
-.vscode/
+###############################
+# User- and tool-specific files
+###############################
+**/*.user
+**/*.suo
+**/*.userosscache
+**/*.sln.docstates
 .vs/
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
-
-## ASP.NET Specific ##
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-## ASP.NET Core Secret Manager ##
-*.secret.json
-
-## Configuration Files ##
-appsettings.Development.json
-appsettings.Local.json
-appsettings.*.json  # Optional: Ignore all except base if you want
-
-## Publish Output ##
-wwwroot/dist/
-wwwroot/node_modules/
-wwwroot/lib/
-
-## Package Management ##
-node_modules/
-bower_components/
-packages/
-*.nupkg
-*.snupkg
-*.nuspec
-
-# NuGet Restore Results
-project.lock.json
-project.assets.json
-*.csproj.nuget.dgspec.json
-*.csproj.nuget.g.props
-*.csproj.nuget.g.targets
-
-## Entity Framework ##
-Migrations/
-
-## Rider IDE ##
 .idea/
+.vscode/
 
-## MacOS ##
+##############################
+# ASP.NET Core Configuration #
+##############################
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/appsettings.*.json       # Optional – ignore env-specific settings
+**/*.secret.json
+
+#################################
+# Node.js / Bower (for Web apps)
+#################################
+**/node_modules/
+**/bower_components/
+**/wwwroot/lib/
+**/wwwroot/dist/
+
+##########################
+# NuGet / Package outputs
+##########################
+**/packages/
+**/*.nupkg
+**/*.snupkg
+**/*.nuspec
+**/project.lock.json
+**/project.assets.json
+**/*.csproj.nuget.*
+
+##############################
+# Entity Framework Migrations
+##############################
+**/Migrations/
+
+##########################
+# OS / Miscellaneous files
+##########################
 .DS_Store
-
-## Windows ##
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-
-## Others ##
 *.log
 *.tmp
 *.bak
